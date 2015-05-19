@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "~4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Corley\\RC4\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Corley\\RC4\\": "tests/"
+        }
+    }
+}
