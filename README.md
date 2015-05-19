@@ -1,5 +1,7 @@
 # RC4 support
 
+[![Build Status](https://travis-ci.org/wdalmut/rc4-support.svg?branch=master)](https://travis-ci.org/wdalmut/rc4-support)
+
 RC4 implementation for PHP
 
 ## Usage
