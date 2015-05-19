@@ -1,15 +1,17 @@
 {
-    "require-dev": {
-        "phpunit/phpunit": "~4"
-    },
-    "autoload": {
-        "psr-4": {
-            "Corley\\RC4\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Corley\\RC4\\": "tests/"
-        }
+  "name": "wdalmut/rc4-support",
+  "license": "MIT",
+  "require-dev": {
+    "phpunit/phpunit": "~4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Corley\\RC4\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Corley\\RC4\\": "tests/"
+    }
+  }
 }
